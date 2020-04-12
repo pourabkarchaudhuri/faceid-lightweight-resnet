@@ -8,7 +8,7 @@
 from imutils.video import VideoStream
 from imutils.video import FPS
 import numpy as np
-import pyautogui
+# import pyautogui
 import imutils
 import pickle
 import ctypes

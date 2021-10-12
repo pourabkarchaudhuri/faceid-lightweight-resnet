@@ -1,5 +1,5 @@
 opencv-python==4.1.1.26
-opencv-python-headless==4.1.1.26
+opencv-python-headless==4.2.0.32
 numpy==1.16.1
 Pillow==6.2.0
 imutils==0.5.3
